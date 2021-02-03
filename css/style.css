@@ -1,0 +1,40 @@
+.body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  font-size: 33px;
+}
+
+.nav-link {
+  font-weight: 500;
+}
+
+.jumbatron-heading {
+  font-size: 42px;
+}
+
+.jumbatron-text {
+  font-size: 20px;
+}
+
+.button-jumbatron button {
+  font-size: 21px;
+}
+
+.button-coral {
+  background-color: coral;
+}
+
+.section-cards {
+  background-color: #343a40;
+}
+
+.card-title {
+  font-size: 16px;
+}
+
+.footer-subscribe {
+  font-size: 21px;
+}
