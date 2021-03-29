@@ -1,1 +1,1 @@
-[bootstrap-games-tamplate](https://juurousse.github.io/bootstrap-games-tamplate/index.html)
+[bootstrap-games-template](https://juurousse.github.io/bootstrap-games-template/index.html)
